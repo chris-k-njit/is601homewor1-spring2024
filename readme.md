@@ -2,7 +2,7 @@
 ## Instructions
 1. Install WSL2 with Ubuntu Linux installe
 	- [x] Installed Ubuntu Linux 22.04.
-	- [ ] Confirm with Professor Williams if this version is ok or to choose another.d
+	- [ ] Confirm with Professor Williams if this version is ok or to choose another.
 2. Create a GitHub Account
 	- [x] Created student account for NJIT
 	- [x] My own personal account I've had can be found at github.com/ckedd
