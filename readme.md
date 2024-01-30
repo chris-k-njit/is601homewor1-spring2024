@@ -5,7 +5,7 @@
 	- [ ] Confirm with Professor Williams if this version is ok or to choose another.
 2. Create a GitHub Account
 	- [x] Created student account for NJIT
-	- [x] My own personal account I've had can be found at [personal github](www.github.com/ckedd)
+	- [x] My own personal account I've had can be found at [personal github](https://www.github.com/ckedd)
 3. Create a folder for projects
 	- [x] Folder created on Desktop
 	- [ ] Need to create on Laptop
